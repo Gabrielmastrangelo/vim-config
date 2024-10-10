@@ -1,1 +1,0 @@
-/Users/gabrielcanuto/.vimrc
